@@ -1,7 +1,7 @@
 {
   "name": "webicons",
-  "original-version": "0.1",
-  "version": "0.1",
+  "original-version": "0.0.1",
+  "version": "0.0.1",
   "description": "Webicons is a set of resolution-independent social icons for use on your website. They use feature-detected SVG graphics (with PNG fallbacks) to display the icons over their appropriate negatively indented anchor titles.",
   "repository": {
     "type": "git",
